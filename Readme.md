@@ -1,14 +1,15 @@
-# Project Name: Horoscope Generator
+# Project Name: Random horoscope generator
 
 ## Description
 
-* The purpose of this program is to provide entertainment and fun.Some individuals believe that horoscopes provide insights into their personality traits, strengths, and challenges.
+* This program was build for entertainment and fun.Some individuals believe that horoscopes provide insights into their personality traits, strengths, and challenges.
 
 * I'm open for suggestions and modifications.
 
+
 ## Technologies
 
-* I used JavaScript because of its simplicity and countless built-in methods and objects.
+* Only JavaScript used because of its simplicity and easy to use methods.
 
 
 ## How it works
