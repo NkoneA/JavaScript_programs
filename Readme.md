@@ -17,6 +17,6 @@
 * This program generates random messages everytime a user runs the program.
 
 
-![Horoscope Wheel](https://cdn.pixabay.com/animation/2023/01/12/18/10/18-10-43-580_512.gif)
+
 
 
