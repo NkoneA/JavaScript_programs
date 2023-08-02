@@ -1,18 +1,18 @@
 ## Project Name: Horoscope message generator
 
-## Description
+### Description
 
 * This program was build for entertainment and fun.Some individuals believe that horoscope messages provide insights into their personality traits, strengths, and challenges.
 
 * I'm open for suggestions and modifications.
 
 
-## Technologies
+### Technologies
 
 * Only JavaScript used for this program, this is because of its simplicity and easy to understand methods.
 
 
-## How it works
+### How it works
 
 * This program generates random horoscopic messages everytime a user runs the program.
 
