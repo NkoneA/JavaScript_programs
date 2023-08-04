@@ -1,12 +1,17 @@
 //This program generates a random horoscopic message each time user runs the program
 
- randomMessage = () => {//This arrow function takes no parameters
 
+//This arrow function takes no parameters
 
-    let randomNumber = Math.floor(Math.random() * 6); //Generate random whole numbers between 0 and 5 then stores them in a declared randomNumber variable
+ randomMessage = () => {
 
+//Generated random whole numbers between 0 and 5 are stored in variable
 
-    switch (randomNumber) { //Switch statement assign messages to random numbers generated
+    let randomNumber = Math.floor(Math.random() * 6); 
+
+//Switch statement assign messages to random numbers generated
+
+    switch (randomNumber) { 
 
         case 0:
             return 'Your lucky planet now : Mars \nMessage : Do not try to resolve everything, Let go and let God!';
@@ -37,7 +42,10 @@
             break;
     }
 }
-console.log(randomMessage()); // logging function call to the console
+
+// logging function call to the console
+
+console.log(randomMessage());
 
 
 
